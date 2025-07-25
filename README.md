@@ -26,16 +26,6 @@ I believe that every challenge is an opportunity to grow — and I’m building 
 
 - **IoT Enthusiast**: exploring smart solutions and integrations
 
-## 🧠 Soft Skills & Experience
-
-- 📚 Certified in **Introduction to Project Management** by Fundação Bradesco
-- - 📚 Certified in **CNV** by EVAG  
-- 🧑‍🤝‍🧑 Certified in **People Management** by Fundação Bradesco  
-- 🗳️ Former **President of the Youth Parliament** in Sumaé  
-- 🧩 Acted as a **Product Owner (P.O.)** in academic projects  
-- 🌐 Languages: Basic English, Intermediate Spanish, and Brazilian Sign Language (Libras)  
-- 📈 Currently studying for **PMP Certification** and training in **Agile Methodologies**
-
 ## 📫 Contact
 Feel free to reach out or connect!
 - ✉️ Email: *yasmim.martins.profissional@gmail.com*  
