@@ -26,6 +26,8 @@ I believe that every challenge is an opportunity to grow — and I’m building 
 
 - **IoT Enthusiast**: exploring smart solutions and integrations
 
+  https://camo.githubusercontent.com/821abf5a27498c6d728f2f831705e920104367a39c61b0b1f3c3fef7e7217d61/687474703a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72616661656c4d6163686172657465266c61796f75743d636f6d70616374267468656d653d7265616374
+
 ## 📫 Contact
 Feel free to reach out or connect!
 - ✉️ Email: *yasmim.martins.profissional@gmail.com*  
