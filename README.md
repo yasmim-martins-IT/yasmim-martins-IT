@@ -4,7 +4,6 @@
 📍 Brazil | 17 years old  
 📌 *"Life is the greatest project of all."*
 
-
 ##  About Me
 
 Hello! I'm Yasmim, a high school student at **Dr. Leandro Francheschini**, currently enrolled in a **technical program in Information Technology**. I’m passionate about technology, leadership, and project management.
@@ -27,7 +26,6 @@ I believe that every challenge is an opportunity to grow — and I’m building 
 
 - **IoT Enthusiast**: exploring smart solutions and integrations
 
-
 ## 🧠 Soft Skills & Experience
 
 - 📚 Certified in **Introduction to Project Management** by Fundação Bradesco
@@ -37,14 +35,6 @@ I believe that every challenge is an opportunity to grow — and I’m building 
 - 🧩 Acted as a **Product Owner (P.O.)** in academic projects  
 - 🌐 Languages: Basic English, Intermediate Spanish, and Brazilian Sign Language (Libras)  
 - 📈 Currently studying for **PMP Certification** and training in **Agile Methodologies**
-
-
-## 🎯 My Dreams
-
-- ✅ Achieve **PMP Certification** in 3 years  
-- ✅ Become a **Project Manager**  
-- ✅ Work with **People Management**  
-- ✅ Become **fluent in English**
 
 ## 📫 Contact
 Feel free to reach out or connect!
