@@ -1,7 +1,7 @@
 # 🦆 Yasmim Sampaio Martins
 
 🎓 **High School Student | Technical Student in Information Technology**  
-📍 Brazil | 17 years old  
+📍 Brazil | 18 years old  
 📌 *"Life is the greatest project of all."*
 
 ##  About Me
