@@ -1,6 +1,7 @@
 # 🦆 Yasmim Sampaio Martins
 
 🎓 **High School Student | Technical Student in Information Technology**  
+🎓 **Graduate in Digital Solutions at SENAI Roberto Mange (Campinas/SP)**  
 📍 Brazil | 18 years old  
 📌 *"Life is the greatest project of all."*
 
