@@ -1,7 +1,9 @@
 # 🦆 Yasmim Sampaio Martins
+# 💼 Bosch Full Stack Developer
 
 🎓 **High School Student | Technical Student in Information Technology**  
 🎓 **Graduate in Digital Solutions at SENAI Roberto Mange (Campinas/SP)**  
+
 📍 Brazil | 19 years old  
 📌 *"Life is the greatest project of all."*
 
